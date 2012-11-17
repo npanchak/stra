@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="radii_prompt">Choose Content Radius</string>
+    <string-array name="radii">
+        <item>3km</item>
+        <item>5km</item>
+        <item>10km</item>
+        <item>20km</item>
+    </string-array>
+    
+    
+	<string name="hello">Hello World, StraActivity!</string>
+	<string name="app_name">Stra</string>
+	<string name="cannot">Cannot</string>
+	<string name="album_name">StraGallery</string>
+	<string name="hide_me">Hide Me!</string>
+	<string name="goto_root">..</string>
+	<string name="empty_dir">Empty Dir</string>
+	<string name="not_support_gps">GPS is disabled - update failed.</string>
+	<string name="enable_gps_dialog">GPS provider not enabled. Would you like to enable it?</string>
+	<string name="enable_gps">Enable GPS</string>
+	<string name="nothanks_gps">"No Thanks"</string>
+    
+</resources>
